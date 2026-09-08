@@ -9,5 +9,5 @@ id = "eb7fa9d4509d47019597d80a59e8cd7a"				#KV数据库id
 
 workers_dev = false
 routes = [
-  { pattern = "v2cdc.sakuracofl.dpdns.org/*", custom_domain = true }
+  { pattern = "v2cdc.sakuracofl.dpdns.org", custom_domain = true }
 ]
